@@ -1,4 +1,4 @@
-# Error Boundary Component for Pleelo
+# Error Boundary Component
 
 The Error Boundary Component is a utility designed to handle errors efficiently in your application. This component takes care of capturing any errors that occur within the application and provides an elegant way to handle them and present an error message to the user. To use this component, follow the steps below:
 
